@@ -5,7 +5,7 @@ Final-year Computer Engineering student on the Cloud & DevOps path. I focus on t
 
 With my team, I joined Teknofest 2025 with an AI-powered Stroke Detection project (CT/MRI). I keep my workflow simple: automate what can be automated, monitor essentials, and keep infrastructure reliable. Currently improving Kubernetes (EKS basics) and GitOps fundamentals.
 
--🛠️Core skills | Technologies 
+-🛠️Core skills | Technologies <br>
 --Cloud: AWS (EC2,VPC,S3,RDS,Lambda,EKS)<br>
 --Containers: Docker Kubernetes<br>
 --Automation: Terraform<br>
