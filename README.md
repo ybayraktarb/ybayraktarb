@@ -6,12 +6,12 @@ Final-year Computer Engineering student on the Cloud & DevOps path. I focus on t
 With my team, I joined Teknofest 2025 with an AI-powered Stroke Detection project (CT/MRI). I keep my workflow simple: automate what can be automated, monitor essentials, and keep infrastructure reliable. Currently improving Kubernetes (EKS basics) and GitOps fundamentals.
 
 -🛠️Core skills | Technologies 
---Cloud: AWS (EC2,VPC,S3,RDS,Lambda,EKS)
---Containers: Docker Kubernetes
---Automation: Terraform
---CI/CD: GitHub Actions Jenkins 
---Scripting: Bash Python
---Databases: MySQL
+--Cloud: AWS (EC2,VPC,S3,RDS,Lambda,EKS)<br>
+--Containers: Docker Kubernetes<br>
+--Automation: Terraform<br>
+--CI/CD: GitHub Actions Jenkins<br>
+--Scripting: Bash Python<br>
+--Databases: MySQL<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
