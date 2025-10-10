@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Yusuf Berat Bayraktar</h1>
 <h3 align="center">Aspiring DevOps Engineer | AWS | CI/CD | Linux |Docker | Kubernetes</h3>
 
-- 🔭 Final-year Computer Engineering student at Pamukkale University.
+</p Final-year Computer Engineering student on the Cloud & DevOps path. I focus on the fundamentals: Docker & Jenkins, CI/CD with GitHub Actions, and IaC with Terraform. I’m preparing for AWS SAA, completed a Cloud & DevOps training (Huawei), and enjoy building small, hands-on projects.
 
-- 🌱 I’m currently learning **AWS SAA|Terraform**
+With my team, I joined Teknofest 2025 with an AI-powered Stroke Detection project (CT/MRI). I keep my workflow simple: automate what can be automated, monitor essentials, and keep infrastructure reliable. Currently improving Kubernetes (EKS basics) and GitOps fundamentals.
+
+-🛠️Core skills | Technologies 
+--Cloud: AWS (EC2,VPC,S3,RDS,Lambda,EKS)
+--Containers: Docker Kubernetes
+--Automation: Terraform
+--CI/CD: GitHub Actions Jenkins 
+--Scripting: Bash Python
+--Databases: MySQL >
 
 - 📝 I regularly write articles on [https://medium.com/@ybayraktarb](https://medium.com/@ybayraktarb)
 
