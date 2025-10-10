@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yusuf Berat Bayraktar</h1>
 <h3 align="center">Aspiring DevOps Engineer | AWS | CI/CD | Linux |Docker | Kubernetes</h3>
 
-- 🔭 I’m currently working on **Oreon**
+- 🔭 Final-year Computer Engineering student 
 
 - 🌱 I’m currently learning **AWS SAA|Terraform**
 
 - 📝 I regularly write articles on [https://medium.com/@ybayraktarb](https://medium.com/@ybayraktarb)
-
-- 📫 How to reach me **ybayraktarb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
