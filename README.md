@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yusuf Berat Bayraktar</h1>
+<h1 align="center">Hi , I'm Yusuf Berat Bayraktar</h1>
 <h3 align="center">Aspiring DevOps Engineer | AWS | CI/CD | Linux |Docker | Kubernetes</h3>
 
 
