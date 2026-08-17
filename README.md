@@ -1,6 +1,6 @@
-I'm a Cloud & DevOps focused **Computer Engineering Student** based in Istanbul, Türkiye.
+I'm a **DevOps Engineer** based in Istanbul. I focus on building cloud infrastructure, automating deployment pipelines, and managing containerized applications. 
 
-I build reliable cloud infrastructures, automate CI/CD pipelines, and manage containerized environments. My workflow is simple: automate what can be automated, monitor essentials, and keep infrastructure reliable. I'm currently focused on advancing my expertise in AWS, Terraform, and GitOps fundamentals.
+Currently working heavily with AWS, Terraform, and Kubernetes.
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
@@ -11,7 +11,7 @@ I build reliable cloud infrastructures, automate CI/CD pipelines, and manage con
 
 ---
 
-### 🛠 Languages and Tools
+### Languages and Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -27,7 +27,7 @@ I build reliable cloud infrastructures, automate CI/CD pipelines, and manage con
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table borderColor="#e1e4e8" width="100%">
   <tr>
@@ -40,11 +40,11 @@ I build reliable cloud infrastructures, automate CI/CD pipelines, and manage con
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">☁️ Cloud & CI/CD Hands-on</h3>
-      <p align="center">Infrastructure setup automating AWS (EC2, VPC, S3, RDS, EKS) provisioning and deployment workflows to keep services reliable.</p>
-      <p align="center"><strong>Terraform • GitHub Actions • Kubernetes</strong></p>
+      <h3 align="center">☁️ AWS Static Site Infra</h3>
+      <p align="center">Automated infrastructure provisioning for hosting highly available and secure static websites on AWS using S3 and CloudFront.</p>
+      <p align="center"><strong>AWS • Terraform • S3 • CloudFront</strong></p>
       <p align="center">
-        <a href="#">📁 Repository</a>
+        <a href="https://github.com/ybayraktarb/aws-static-site-infra">📁 Repository</a>
       </p>
     </td>
   </tr>
