@@ -29,18 +29,7 @@ Currently working heavily with AWS, Terraform, and Kubernetes.
 
 ### Featured Projects
 
-<table borderColor="#e1e4e8" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 AI Stroke Detection</h3>
-      <p align="center">An AI-powered Stroke Detection project (CT/MRI) developed for Teknofest 2025. Focused on medical imaging analysis and reliable model deployment.</p>
-      <p align="center"><strong>Python • TensorFlow • Docker • AWS</strong></p>
-      <p align="center">
-        <a href="#">📁 Repository</a> • <a href="#">🌐 Website</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">☁️ AWS Static Site Infra</h3>
+      <h3 align="center"> AWS Static Site Infra</h3>
       <p align="center">Automated infrastructure provisioning for hosting highly available and secure static websites on AWS using S3 and CloudFront.</p>
       <p align="center"><strong>AWS • Terraform • S3 • CloudFront</strong></p>
       <p align="center">
