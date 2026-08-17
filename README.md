@@ -29,12 +29,21 @@ Currently working heavily with AWS, Terraform, and Kubernetes.
 
 ### Featured Projects
 
+<table borderColor="#e1e4e8" width="100%">
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center"> AWS Static Site Infra</h3>
       <p align="center">Automated infrastructure provisioning for hosting highly available and secure static websites on AWS using S3 and CloudFront.</p>
       <p align="center"><strong>AWS • Terraform • S3 • CloudFront</strong></p>
       <p align="center">
         <a href="https://github.com/ybayraktarb/aws-static-site-infra">📁 Repository</a>
       </p>
+    </td>
+    <td width="50%" valign="top">
+      <br>
+      <h3 align="center"> Coming Soon</h3>
+      <p align="center">Blog Architecture & Infrastructure</p>
+      <br>
     </td>
   </tr>
 </table>
