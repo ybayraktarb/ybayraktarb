@@ -1,4 +1,4 @@
-I'm a **DevOps Engineer** specializing in cloud infrastructure, CI/CD automation, and container orchestration.
+I'm a **DevOps Engineer** focused on building hands-on experience in cloud infrastructure, CI/CD pipelines, and containerized systems.
 
 Currently working heavily with AWS, Terraform, and Kubernetes.
 
