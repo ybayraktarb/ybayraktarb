@@ -1,6 +1,7 @@
-I'm a **DevOps Engineer** based in Istanbul. I focus on building cloud infrastructure, automating deployment pipelines, and managing containerized applications. 
+I'm a **DevOps Engineer** specializing in cloud infrastructure, CI/CD automation, and container orchestration.
 
 Currently working heavily with AWS, Terraform, and Kubernetes.
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
